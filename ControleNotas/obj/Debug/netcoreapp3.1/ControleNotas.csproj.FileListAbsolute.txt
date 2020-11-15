@@ -1,0 +1,13 @@
+C:\Cursos\CSharp_DIO\ControleNotas\ControleNotas\obj\Debug\netcoreapp3.1\ControleNotas.csprojAssemblyReference.cache
+C:\Cursos\CSharp_DIO\ControleNotas\ControleNotas\obj\Debug\netcoreapp3.1\ControleNotas.AssemblyInfoInputs.cache
+C:\Cursos\CSharp_DIO\ControleNotas\ControleNotas\obj\Debug\netcoreapp3.1\ControleNotas.AssemblyInfo.cs
+C:\Cursos\CSharp_DIO\ControleNotas\ControleNotas\obj\Debug\netcoreapp3.1\ControleNotas.csproj.CoreCompileInputs.cache
+C:\Cursos\CSharp_DIO\ControleNotas\ControleNotas\bin\Debug\netcoreapp3.1\ControleNotas.exe
+C:\Cursos\CSharp_DIO\ControleNotas\ControleNotas\bin\Debug\netcoreapp3.1\ControleNotas.deps.json
+C:\Cursos\CSharp_DIO\ControleNotas\ControleNotas\bin\Debug\netcoreapp3.1\ControleNotas.runtimeconfig.json
+C:\Cursos\CSharp_DIO\ControleNotas\ControleNotas\bin\Debug\netcoreapp3.1\ControleNotas.runtimeconfig.dev.json
+C:\Cursos\CSharp_DIO\ControleNotas\ControleNotas\bin\Debug\netcoreapp3.1\ControleNotas.dll
+C:\Cursos\CSharp_DIO\ControleNotas\ControleNotas\bin\Debug\netcoreapp3.1\ControleNotas.pdb
+C:\Cursos\CSharp_DIO\ControleNotas\ControleNotas\obj\Debug\netcoreapp3.1\ControleNotas.dll
+C:\Cursos\CSharp_DIO\ControleNotas\ControleNotas\obj\Debug\netcoreapp3.1\ControleNotas.pdb
+C:\Cursos\CSharp_DIO\ControleNotas\ControleNotas\obj\Debug\netcoreapp3.1\ControleNotas.genruntimeconfig.cache

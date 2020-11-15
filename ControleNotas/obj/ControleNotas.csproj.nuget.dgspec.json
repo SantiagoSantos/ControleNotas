@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Cursos\\CSharp_DIO\\ControleNotas\\ControleNotas\\ControleNotas.csproj": {}
+  },
+  "projects": {
+    "C:\\Cursos\\CSharp_DIO\\ControleNotas\\ControleNotas\\ControleNotas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Cursos\\CSharp_DIO\\ControleNotas\\ControleNotas\\ControleNotas.csproj",
+        "projectName": "ControleNotas",
+        "projectPath": "C:\\Cursos\\CSharp_DIO\\ControleNotas\\ControleNotas\\ControleNotas.csproj",
+        "packagesPath": "C:\\Users\\psrs\\.nuget\\packages\\",
+        "outputPath": "C:\\Cursos\\CSharp_DIO\\ControleNotas\\ControleNotas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\psrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
