@@ -209,11 +209,11 @@ namespace ControleNotas
             {
                 con = Conceito.D;
             }
-            else if (nota < 4)
+            else if (nota < 6)
             {
                 con = Conceito.C;
             }
-            else if (nota < 4)
+            else if (nota < 8)
             {
                 con = Conceito.B;
             }
